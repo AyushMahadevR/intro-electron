@@ -1,0 +1,22 @@
+{
+  "name": "intro-electron",
+  "version": "0.1.0",
+  "description": "test electron app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrinceOfDeath/intro-electron.git"
+  },
+  "author": "ayush mahadev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PrinceOfDeath/intro-electron/issues"
+  },
+  "homepage": "https://github.com/PrinceOfDeath/intro-electron#readme",
+  "dependencies": {
+    "electron": "^1.7.6"
+  }
+}
